@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/trivia-react-redux/static/css/main.5f361e03.chunk.css",
+    "main.js": "/trivia-react-redux/static/js/main.e980458e.chunk.js",
+    "main.js.map": "/trivia-react-redux/static/js/main.e980458e.chunk.js.map",
+    "runtime-main.js": "/trivia-react-redux/static/js/runtime-main.30dec5aa.js",
+    "runtime-main.js.map": "/trivia-react-redux/static/js/runtime-main.30dec5aa.js.map",
+    "static/js/2.78306db8.chunk.js": "/trivia-react-redux/static/js/2.78306db8.chunk.js",
+    "static/js/2.78306db8.chunk.js.map": "/trivia-react-redux/static/js/2.78306db8.chunk.js.map",
+    "index.html": "/trivia-react-redux/index.html",
+    "precache-manifest.afe1b99e44147d2d5d5f15ecb7214b24.js": "/trivia-react-redux/precache-manifest.afe1b99e44147d2d5d5f15ecb7214b24.js",
+    "service-worker.js": "/trivia-react-redux/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/trivia-react-redux/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.78306db8.chunk.js.LICENSE.txt": "/trivia-react-redux/static/js/2.78306db8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/trivia-react-redux/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30dec5aa.js",
+    "static/js/2.78306db8.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e980458e.chunk.js"
+  ]
+}
