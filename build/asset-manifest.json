@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/trivia-react-redux/static/css/main.e36f49e4.chunk.css",
+    "main.js": "/trivia-react-redux/static/js/main.4cbb51e4.chunk.js",
+    "main.js.map": "/trivia-react-redux/static/js/main.4cbb51e4.chunk.js.map",
+    "runtime-main.js": "/trivia-react-redux/static/js/runtime-main.30dec5aa.js",
+    "runtime-main.js.map": "/trivia-react-redux/static/js/runtime-main.30dec5aa.js.map",
+    "static/js/2.8567123a.chunk.js": "/trivia-react-redux/static/js/2.8567123a.chunk.js",
+    "static/js/2.8567123a.chunk.js.map": "/trivia-react-redux/static/js/2.8567123a.chunk.js.map",
+    "index.html": "/trivia-react-redux/index.html",
+    "precache-manifest.ee029fba6508952c9b1b222418387d4c.js": "/trivia-react-redux/precache-manifest.ee029fba6508952c9b1b222418387d4c.js",
+    "service-worker.js": "/trivia-react-redux/service-worker.js",
+    "static/css/main.e36f49e4.chunk.css.map": "/trivia-react-redux/static/css/main.e36f49e4.chunk.css.map",
+    "static/js/2.8567123a.chunk.js.LICENSE.txt": "/trivia-react-redux/static/js/2.8567123a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30dec5aa.js",
+    "static/js/2.8567123a.chunk.js",
+    "static/css/main.e36f49e4.chunk.css",
+    "static/js/main.4cbb51e4.chunk.js"
+  ]
+}
